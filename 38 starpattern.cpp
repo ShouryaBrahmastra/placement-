@@ -16,7 +16,7 @@ int main() {
             j++;
         }
         
-        // Print the spaces (x spaces)
+        // Print the star (* spaces)
         int y = 1;
         while (y <= x) {
             cout << '*';
