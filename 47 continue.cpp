@@ -12,7 +12,7 @@ int main()
     // then enter the condition check
     // then enter the loop
     // then continue
-    then 
+    
     for (int i = 0; i < 5; i++)
     {
         cout<<"\nHey 1"<<endl;
